@@ -1,4 +1,4 @@
-# Malaria-Bounding-Box-
+# Malaria-Bounding-Box
 <h3> Dataset </h3> 
 https://www.kaggle.com/kmader/malaria-bounding-boxes
 <h3> Conclusion </h3>
